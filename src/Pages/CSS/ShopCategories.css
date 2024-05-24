@@ -1,0 +1,30 @@
+.shop_category{
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+}
+.index p span{
+    font-weight: 600;
+}
+.shop_products{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 50px;
+}
+.morebutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 170px;
+    height: 55px;
+    border-radius: 75px;
+    background: #ededed;
+    color: #787878;
+    cursor: pointer;
+}
+.morebutton button{
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+}

@@ -1,0 +1,68 @@
+const new_collection = [
+    {
+        id: 48,
+        name: "Tarmac Rapid Full Gauntlet Riding Gloves",
+        category: "Gloves",
+        image: require("./images/g12.webp"),
+        new_price: 4000,
+        old_price: 4500,
+    },
+    {
+        id: 31,
+        name: "Stylmartin Vector WP Boots",
+        category: "Shoes",
+        image: require("./images/b7.webp"),
+        new_price: 3800,
+        old_price: 4000,
+    },
+    {
+        id: 21,
+        name: "TORNADO PRO 4 JACKET",
+        category: "Jackets",
+        image: require("./images/j9.webp"),
+        new_price: 5100,
+        old_price: 5500,
+    },
+    {
+        id: 12,
+        name: "SOLELUNA 2022",
+        category: "Helmets",
+        image: require("./images/h12.png"),
+        new_price: 4000,
+        old_price: 4500,
+    },
+    {
+        id: 43,
+        name: "Tarmac Rapid Full Gauntlet Riding Gloves",
+        category: "Gloves",
+        image: require("./images/g7.webp"),
+        new_price: 3800,
+        old_price: 4000,
+    },
+    {
+        id: 28,
+        name: "Stylmartin Vector WP Boots",
+        category: "Shoes",
+        image: require("./images/b4.webp"),
+        new_price: 9000,
+        old_price: 10000,
+    },
+    {
+        id: 13,
+        name: "DSG Apex Air-Flow Riding Jacket",
+        category: "Jackets",
+        image: require("./images/j1.webp"),
+        new_price: 5000,
+        old_price: 5500,
+    },
+    {
+        id: 3,
+        name: "MIR AMERICAS 2021",
+        category: "Helmets",
+        image: require("./images/h3.webp"),
+        new_price: 5990,
+        old_price: 6990,
+    },
+]
+
+export default new_collection;

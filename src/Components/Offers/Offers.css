@@ -1,0 +1,30 @@
+.offers h2{
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 800;
+    font-style: normal;
+    color: white;
+    font-size: 60px;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+.offers h3{
+    color: white;
+    font-size: 35px;
+    padding-top: 5px;
+    padding-left: 80px;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 800;
+    font-style: normal;
+}
+.offers{
+    margin: 35px 0px;
+}
+.offerbtn{
+    padding: 8px 20px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: larger;
+    margin-top: 40px;
+    margin-left: 80px;
+}

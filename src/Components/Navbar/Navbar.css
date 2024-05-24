@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+.grid{
+    width: 95%;
+    margin: auto;
+}
+.input input{
+    padding: 5px 180px 5px 60px ;
+    border-radius: 20px;
+    border: 1px solid;
+    outline: none;
+}
+.nav_logo img{
+    width: 100px;
+}
+.icon{
+    position: relative;
+    left: 45px;
+    bottom: 2px;
+}
+.nav_icons{
+    gap: 30px;
+}
+.nav_heart a{
+    font-size: 22px;
+    color: #000;
+}
+.nav_cart a{
+    font-size: 22px;
+    color: #000;
+}
+.signin{
+    padding-top: 4px;
+}
+.signin a{
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    padding-top: 8px;
+    text-decoration: none;
+    color: #000;
+}
+.nav_menu{
+    width: 60%;
+    margin: auto;
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.nav_menu hr{
+    border: none;
+    width: 80%;
+    height: 2px;
+    border-radius: 10px;
+    background-color: black;
+}
+.nav_cart_count {
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -31px;
+    margin-left: 10px;
+    border-radius: 11px;
+    font-size: 14px;
+    background: red;
+    color: white;
+}
+.navbar{
+    padding: 0px ;
+}
